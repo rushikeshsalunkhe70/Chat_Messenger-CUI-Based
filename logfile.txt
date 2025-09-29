@@ -1,0 +1,8 @@
+Client says: Hi
+Server says: Hello
+Client says: are you free today?
+Server says: I'm out of town.
+Client says: ok no problem
+Server says: yess, see you soon.
+Client says: yeah, bye
+Server says: bye bye
