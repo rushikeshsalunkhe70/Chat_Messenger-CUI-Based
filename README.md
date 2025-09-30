@@ -1,4 +1,4 @@
-# Java Chat Application
+# Java Chat Application 
 
 [![Java](https://img.shields.io/badge/Java-8%2B-orange.svg)](https://www.oracle.com/java/)
 
